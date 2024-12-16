@@ -1,0 +1,52 @@
+/* CSS files add styling rules to your content */
+/* 
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+footer {
+  color: #120d04;
+  text-align: center;
+  max-width: 100%;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 0;
+  background-color: ;
+  border: 1px solid black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+header {
+  color: #120d04;
+  text-align: left;
+  max-width: 100%;
+  font-weight: bold;
+  margin: 0;
+  padding-left: 2em;
+  background-color: ;
+  border: 1px solid black;
+  width: 100%;
+} */
+
+
+
+/* Oz */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
